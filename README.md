@@ -1,2 +1,2 @@
 # Software-Architecture
-Solutions for the Coursera course Software Architecture by University of Alberta Timeline
+Solutions for the Coursera course Software Architecture by University of Alberta 
